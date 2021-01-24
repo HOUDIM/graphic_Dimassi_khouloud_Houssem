@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1571529525 source:c:\users\pc\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:c:\users\dell\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:d:\kais nouveau\kais 2019_2020\menu deroulant\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571650788 source:c:\mingw\include\graphic\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571650788 source:c:\mingw\include\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571650788 source:c:\users\acer\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1611351488 source:c:\users\acer\desktop\projet c\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"entree_sortie.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+
+1611154746 c:\users\acer\desktop\projet c\graphic\entree_sortie.h
+	<string.h>
+	<limits.h>
+
+1611168578 c:\users\acer\desktop\projet c\graphic\tp2.h
+	<stdio.h>
+	<string.h>
+	"entree_sortie.h"
+
+1611169232 c:\users\acer\desktop\projet c\graphic\tp3.h
+	<limits.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+
+1611351780 c:\users\acer\desktop\projet c\graphic\tp4.h
+	<stdio.h>
+	"entree_sortie.h"
+	"affichage_voix.h"
+
+1611351097 c:\users\acer\desktop\projet c\graphic\affichage_voix.h
+
+1611508913 source:c:\users\acer\desktop\cours\projet c\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"entree_sortie.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+
+1611441076 c:\users\acer\desktop\cours\projet c\graphic\entree_sortie.h
+	<string.h>
+	<limits.h>
+
+1611509952 c:\users\acer\desktop\cours\projet c\graphic\tp2.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+	"animation.h"
+
+1611507652 c:\users\acer\desktop\cours\projet c\graphic\tp3.h
+	<limits.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+
+1611445201 c:\users\acer\desktop\cours\projet c\graphic\tp4.h
+	<stdio.h>
+	"entree_sortie.h"
+	"affichage_voix.h"
+
+1611445431 c:\users\acer\desktop\cours\projet c\graphic\affichage_voix.h
+
+1611412683 c:\users\acer\desktop\cours\projet c\graphic\animation.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
